@@ -1,5 +1,5 @@
 # NIST Response 
-This project was part of my google certifcation in a fictional scenario where I had to create incident report
+This project was part of my google certifcation in a fictional scenario where I had to create an incident report
 
 
 # The Scenario
